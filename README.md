@@ -52,7 +52,7 @@ This spreadsheet is designed to help users:
 
 ---
 
-## Customization
+## 🛡️ Customization
 The spreadsheet can be customized to include:
 - Personalized categories
 - Monthly budgets
@@ -74,7 +74,7 @@ Steps:
 ---
 
 ## ⚙️ Author
-Name              :      Blackie codes 
-Github username   :      Blackie001
-GitHub link       :      https://github.com/Blackie001
+- Name              :      Blackie codes 
+- Github username   :      Blackie001
+- GitHub link       :      https://github.com/Blackie001
   
