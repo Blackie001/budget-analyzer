@@ -1,4 +1,4 @@
-# 🌐 budget-analyzer
+## 🌐 Budget-analyzer
 This project is an Excel-based financial analysis tool designed to help users track their monthly spending, identify unnecessary expenses, and improve their budgeting habits. By entering daily or monthly expenditures, the spreadsheet automatically calculates totals, percentages, and category distributions, giving a clear picture of how money is being spent.
 
 
