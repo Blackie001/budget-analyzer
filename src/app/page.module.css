@@ -1,0 +1,71 @@
+.main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  padding: 80px 0 40px;
+  text-align: center;
+  background: radial-gradient(circle at top, #1e293b 0%, #0f172a 100%);
+}
+
+.title {
+  font-size: 3.5rem;
+  margin-bottom: 16px;
+  background: linear-gradient(to right, #f8fafc, #94a3b8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.highlight {
+  color: var(--primary);
+  -webkit-text-fill-color: var(--primary);
+}
+
+.subtitle {
+  font-size: 1.25rem;
+  color: var(--text-muted);
+}
+
+.dashboard {
+  flex: 1;
+  padding: 40px 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+}
+
+.actionCard {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  cursor: pointer;
+}
+
+.actionCard h2 {
+  font-size: 1.5rem;
+  color: var(--text-main);
+}
+
+.actionCard p {
+  color: var(--text-muted);
+  line-height: 1.6;
+  flex: 1;
+}
+
+.icon {
+  font-size: 2.5rem;
+  margin-bottom: 8px;
+  background: var(--surface-files);
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
