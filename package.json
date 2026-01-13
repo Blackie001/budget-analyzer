@@ -1,0 +1,30 @@
+{
+  "name": "funds-manager",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.0",
+    "chart.js": "^4.0.0",
+    "clsx": "^2.0.0",
+    "next": "latest",
+    "react": "latest",
+    "react-chartjs-2": "^5.0.0",
+    "react-dom": "latest",
+    "recharts": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.0",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
